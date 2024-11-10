@@ -1,1 +1,4 @@
 # E-commerce-Sales-Dashboard
+#This Power BI dashboard provides a comprehensive overview of sales performance for an eCommerce business, helping to track key metrics like total sales amount, quantity sold, profit, and average order value (AOV). It enables stakeholders to identify high-performing categories, customer purchase behavior, and profit trends across different regions and time periods.
+This Power BI dashboard provides a comprehensive overview of sales performance for an eCommerce business, helping to track key metrics like total sales amount, quantity sold, profit, and average order value (AOV). It enables stakeholders to identify high-performing categories, customer purchase behavior, and profit trends across different regions and time periods.
+## Skills: Data Cleaning · Data Interpretation · Data Visualization · Microsoft Power BI · Data Analysis · Microsoft Excel 
